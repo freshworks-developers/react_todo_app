@@ -1,0 +1,5 @@
+.fdk/
+node_modules/
+.report.json
+coverage/
+app/scripts
