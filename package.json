@@ -19,7 +19,8 @@
     "react-scripts": "4.0.0"
   },
   "scripts": {
-    "test": "jest test --coverage"
+    "test": "jest test --coverage",
+    "code-sanity":""
   },
   "jest": {
     "roots": [
