@@ -5,7 +5,7 @@
   "license": "MIT",
   "fdkConfig": {
     "frontendFramework": "react",
-    "configPath": "webpack-config/webpack.config.js"
+    "configPath": ""
   },
   "devDependencies": {
     "@babel/polyfill": "^7.12.1",
