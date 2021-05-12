@@ -52,7 +52,6 @@ const TodoContainer = ({client}) => {
   
   return (  
     <>
-      <h1>hey {inputText}</h1>
       <Form client={client} todos={todos} setTodos={setTodos} inputText={inputText} setInputText={setInputText} setStatus={setStatus}/>
       <TodoList todos={todos} setTodos={setTodos} filteredTodos={filteredTodos}/>
       </>
